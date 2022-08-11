@@ -1,2 +1,2 @@
 # randomstaff
-This is a random file and has no specific intention.
+This is a random duplicate branch file and has no specific intention.
